@@ -1,0 +1,6 @@
+C:\Sato\Others\Logger\Logger\bin\Debug\Logger.exe.config
+C:\Sato\Others\Logger\Logger\bin\Debug\Logger.exe
+C:\Sato\Others\Logger\Logger\bin\Debug\Logger.pdb
+C:\Sato\Others\Logger\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Sato\Others\Logger\Logger\obj\Debug\Logger.exe
+C:\Sato\Others\Logger\Logger\obj\Debug\Logger.pdb
